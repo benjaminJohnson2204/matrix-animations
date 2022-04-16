@@ -1,0 +1,10 @@
+arrow width: 15
+seconds before animation: 2
+animation duration per matrix(seconds): 5
+v for vectors, p for points: v
+interpolation (xy for lines, am for angle-magnitude): am
+show determinant: n
+show eigenvectors: n
+
+transformation matrices: -0.8,0.6,0.6,0.8
+vectors/points to show: -1,-3
